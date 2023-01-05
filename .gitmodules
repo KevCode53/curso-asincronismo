@@ -1,0 +1,3 @@
+[submodule "async-landing"]
+	path = async-landing
+	url = git@github.com:KevCode53/async-landing.git
