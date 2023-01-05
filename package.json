@@ -1,0 +1,27 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "------------ This repository contains everything related to the Platzi asynchronism course taught by Professor Oscar Barajas, where an attempt will be made to understand what asynchronism is and how it works in ![2]Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KevCode53/curso-asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Kevin Palma \"kapalma05@gmail.com\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevCode53/curso-asincronismo/issues"
+  },
+  "homepage": "https://github.com/KevCode53/curso-asincronismo#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
