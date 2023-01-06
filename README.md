@@ -52,7 +52,7 @@ ___
 Transcribed by: **Kevin Palma** - *DevKev*<img src="https://avatars.githubusercontent.com/u/47469351?s=400&u=3967350005c463e9ad98ab92c2afbc71e2d51a44&v=4" width=32  style="background: rgba(0,0,0,.2); border-radius: 100%; outline: 2px solid rgba(0,0,0,.5); margin-left: 10px;" />
 
 ------------
-<img src="src/assets/certificate.png" alt="Certificate" title="Diploma Javascript Closures Scope">
+<a href="https://platzi.com/p/kevinpalma/curso/3175-course/diploma/detalle/" target="_blank"> <img src="./src/assets/img/asincronismo-js.png" alt="Certificate" title="Diploma Javascript Closures Scope"></a>
 
 [1]:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/64px-Unofficial_JavaScript_logo_2.svg.png "Javascript"
 [2]:https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/16px-Unofficial_JavaScript_logo_2.svg.png "Javascript"
